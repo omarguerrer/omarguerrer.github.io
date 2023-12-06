@@ -1,1 +1,8 @@
-# Esta es una primera prueba
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: false
+---
+
+# Primera prueba
