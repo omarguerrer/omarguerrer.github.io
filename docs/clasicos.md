@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 ---
 
-# Estas son las obras clásicas de la Administración Pública rescatadas por el Dr. Guerrero Orozco y editadas para su conocimiento general
+# Obras clásicas de la Administración Pública redescubiertas y rescatadas por el Dr. Guerrero Orozco
 
 
 Teoría Administrativa de la Ciencia Política. Depto. de Ciencia Política, FCPyS-UNAM, México, 1976.
