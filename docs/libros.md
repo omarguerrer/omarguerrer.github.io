@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 
-# Bibliografía completa de los libros publicados por el Dr. Omar Guerrero Orozco
+# Bibliografía de los libros publicados por el Dr. Omar Guerrero Orozco
 
 Teoría Administrativa de la Ciencia Política. Depto. de Ciencia Política, FCPyS-UNAM, México, 1976.
 
