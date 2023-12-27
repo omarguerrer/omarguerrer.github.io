@@ -1,36 +1,13 @@
 ---
-title: Casa
-layout: home
+layout: default
+title: Acerca
 nav_order: 1
+has_children: false
 ---
 
-kjcfhakfhjkaehfkjahkfjhdkjfhakjf
+Este sitio web contiene la trayectoria y obra académica que el Dr. Omar Guerrero Orozco ha desarrollado a lo largo de más de tres décadas de investigación sobre Administración Pública. La finalidad de este espacio es el poner a disposición del lector la mayor parte de su obra científica, ya sean libros, artículos o trabajos de otro tipo, los cuales son de difícil acceso o se encuentran agotados. Tenemos el objetivo de que esta página contribuya al desarrollo del estudio de la administración pública.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+# Acerca del Dr. Omar Guerrero Orozco
 
-More specifically, the created site:
+Licenciado en Ciencias Políticas y Administración Pública por la Facultad de Ciencias Políticas y Sociales de la UNAM, y Doctor en Administración Pública por la misma Facultad. Actualmente tiene la categoría de Profesor Titular C de tiempo completo en dicha Facultad, y es Investigador Nacional Emérito en el Sistema Nacional de Investigadores, además de miembro de la Academica Nacional de Ciencias y del Seminario de Cultura Mexicana. Fue galardonado en 1980 con la medalla Gabino Barreda debido a que obtuvo el máximo promedio en los estudios de posgrado, y con el Premio Nacional de Administración Pública en 1979, otorgado por el INAP. Reconocido con el Premio ANUIES por la Contribución Académica a la Educación Superior 2006. Su campo de estudio comprende temas administrativos, políticos, así como de administración de justicia. Su obra escrita incluye más de cien publicaciones entre libros, artículos y opúsculos. Más información en la página de [Wikipedia acerca del Dr. Omar Guerrero](https://es.wikipedia.org/wiki/Omar_Guerrero_Orozco).
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
