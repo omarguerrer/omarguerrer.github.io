@@ -31,13 +31,12 @@ has_children: false
 
 - González, Florentino (1993) *Elementos de la ciencia administrativa* ESAP. Colombia. [descargar](/pdfs/libros/Florentino1.pdf){:target="_blank"}
 
-- Guerrero, Omar (1993) *Historia de la Secretaría de Relaciones Exteriores.* Secretaría de Relaciones Exteriores. México. [descargar](/pdfs/libros/HSRE1.pdf){:target="_blank"}
+- Guerrero, Omar (1993) *Historia de la secretaría de relaciones exteriores.* Secretaría de Relaciones Exteriores. México. [descargar](/pdfs/libros/HSRE1.pdf){:target="_blank"}
 
-- Las Raíces Borbónicas del Estado Mexicano. México, Coordinación de Humanidades de la UNAM. 1995. (17.3Mb / PDF)
+- Guerrero, Omar (1994) *Las raíces borbónicas del Estado mexicano.* UNAM. [descargar](/pdfs/libros/Raices_borbonicas.pdf){:target="_blank"}
 
-- La Formación Profesional de Administradores Públicos en México. Toluca, Instituto de Administración Pública del Estado de México, Universidad Autónoma del Estado de México y Centro Latinoamericano de Administración para el Desarrollo. 1995.
-Parte 1
-Parte 2
+- Guerrero, Omar. (1995) *La formación profesional de administradores públicos en México. Instituto de Administración Pública del Estado de México, UAEM, CLAD. Méxco. [descargar](/pdfs/libros/fpap01.pdf){:target="_blank"}
+
 
 - La Secretaría de Justicia y el Estado de Derecho en México. México, Instituto de Investigaciones Jurídicas, UNAM. 1995.
 
