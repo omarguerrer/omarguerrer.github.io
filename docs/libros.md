@@ -17,9 +17,7 @@ has_children: false
 
 - [*Introducción a la Administración Pública.* México, Harper and Row Latinoamericana. 1984.](/pdfs/libros/IntroAP.pdf){:target="_blank"}
 
-- La Teoría de la Administración Pública. México, Harper and Row Latinoamericana. 1886.
-Parte 1 (15 MB/.pdf)
-Parte 2 (9.5 MB/.pdf)
+- [*La Teoría de la Administración Pública.* México, Harper and Row Latinoamericana. 1886.](/pdfs/libros/TAP.pdf){:target="_blank"}
 
 - Las Ciencias de la Administración en el Estado Absolutista.  México, Fontamara. 1986. (12.5 Mb / PDF)
 
