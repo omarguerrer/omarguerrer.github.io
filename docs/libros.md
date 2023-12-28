@@ -27,7 +27,11 @@ has_children: false
 
 - Guerrero, Omar (1992) *El Estado en la era de la modernización.* Plaza y Valdés. México. [descargar](/pdfs/libros/El_Estado_en_la_era_de_la_modernizacion.pdf){:target="_blank"}
 
-- Historia de la Secretaría de Relaciones Exteriores. Secretaría de Relaciones Exteriores. México, D.F. 1993.
+- Guerrero, Omar (1992) *Políticas y criterios tecnicos para la modernización curricular de la formación de gerentes publicos en Iberoamérica* CLAD. Venezuela. [descargar](/pdfs/libros/Modernizacion.pdf){:target="_blank"}
+
+- González, Florentino (1993) *Elementos de la ciencia administrativa* ESAP. Colombia. [descargar](/pdfs/libros/Florentino1.pdf){:target="_blank"}
+
+- Guerrero, Omar (1993) *Historia de la Secretaría de Relaciones Exteriores.* Secretaría de Relaciones Exteriores. México. [descargar](/pdfs/libros/HSRE1.pdf){:target="_blank"}
 
 - Las Raíces Borbónicas del Estado Mexicano. México, Coordinación de Humanidades de la UNAM. 1995. (17.3Mb / PDF)
 
