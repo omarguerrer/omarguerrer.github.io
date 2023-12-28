@@ -19,13 +19,13 @@ has_children: false
 
 - Guerrero, Omar (1986) *La teoría de la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
 
-- Guerrero, Omar (1985) *Las ciencias de la administración en el Estado absolutista.* Fontamara. México. [descargar](/pdfs/libros/Estado_capitalista.pdf.pdf){:target="_blank"}
+- Guerrero, Omar (1985) *Las ciencias de la administración en el Estado absolutista.* Fontamara. México. [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
 
-- Guerrero, Omar (1989) *El Estado y la administración pública en México.* INAP. México. [descargar](/pdfs/libros/estado_admin_mexico.pdf.pdf.pdf){:target="_blank"}
+- Guerrero, Omar (1989) *El Estado y la administración pública en México.* INAP. México. [descargar](/pdfs/libros/estado_admin_mexico.pdf){:target="_blank"}
 
-- La administración pública en el estado de Guerrero. Instituto de Administración Pública del Estado de Guerrero. Acapulco, Guerrero; México, D.F. 1991.
+- Guerrero, Omar (1991) *La administración pública en el estado de Guerrero.* Instituto de Administración Pública del Estado de Guerrero. México. [descargar](/pdfs/libros/APEG.pdf){:target="_blank"}
 
-- El Estado en la era de la modernización. Plaza y Valdés. Editores. México (1992) 1993. (segunda edición).
+- Guerrero, Omar (1992) *El Estado en la era de la modernización.* Plaza y Valdés. México. [descargar](/pdfs/libros/El_Estado_en_la_era_de_la_modernizacion.pdf){:target="_blank"}
 
 - Historia de la Secretaría de Relaciones Exteriores. Secretaría de Relaciones Exteriores. México, D.F. 1993.
 
