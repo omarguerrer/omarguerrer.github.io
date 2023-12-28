@@ -17,11 +17,11 @@ has_children: false
 
 - Guerrero, Omar (1984) *Introducción a la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/IntroAP.pdf){:target="_blank"}
 
-- Guerrero, Omar (1986) [*La teoría de la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
+- Guerrero, Omar (1986) *La teoría de la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
 
-- Guerrero, Omar (1985) Las ciencias de la administración en el Estado absolutista. Fontamara. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
+- Guerrero, Omar (1985) *Las ciencias de la administración en el Estado absolutista.* Fontamara. México. [descargar](/pdfs/libros/Estado_capitalista.pdf.pdf){:target="_blank"}
 
-- El Estado y la Administración Pública en México.  México, Instituto Nacional de Administración Pública. 1989. (Por capítulos/.PDF)
+- Guerrero, Omar (1989) *El Estado y la administración pública en México.* INAP. México. [descargar](/pdfs/libros/estado_admin_mexico.pdf.pdf.pdf){:target="_blank"}
 
 - La administración pública en el estado de Guerrero. Instituto de Administración Pública del Estado de Guerrero. Acapulco, Guerrero; México, D.F. 1991.
 
