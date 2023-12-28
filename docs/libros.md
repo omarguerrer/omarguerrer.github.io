@@ -15,9 +15,7 @@ has_children: false
 
 - [*El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. 1982.](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
-- Introducción a la Administración Pública. México, Harper and Row Latinoamericana. 1984.
-Parte 1(8.5 MB/.pdf)
-Parte 2 (9.7 MB/.pdf)
+- [*Introducción a la Administración Pública.* México, Harper and Row Latinoamericana. 1984.](/pdfs/libros/IntroAP.pdf){:target="_blank"}
 
 - La Teoría de la Administración Pública. México, Harper and Row Latinoamericana. 1886.
 Parte 1 (15 MB/.pdf)
