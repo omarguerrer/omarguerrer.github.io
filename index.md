@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 ---
 
-![test](/imagenes/bio/editada.jpg){:height="50%" width="50%" align="center"}
+![test](/imagenes/bio/editada.jpg){:height="70%" width="70%" align="center"}
 
 
 Este sitio web contiene la trayectoria y obra académica que el Dr. Omar Guerrero Orozco (1946-2023) desarrolló a lo largo de más de cinco décadas de investigación sobre Administración Pública. La finalidad de este espacio es el poner a disposición del lector la mayor parte de su obra científica, ya sean libros, artículos, o trabajos de otro tipo, los cuales son de difícil acceso o se encuentran agotados. El objetivo de que esta página es contribuir al desarrollo del estudio de la administración pública y divulgar el legado del Dr. Guerrero Orozco.
