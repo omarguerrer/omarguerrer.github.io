@@ -7,12 +7,12 @@ has_children: false
 
 # Bibliografía de los libros publicados por el Dr. Guerrero Orozco
 
-- Teoría Administrativa de la Ciencia Política. Depto. de Ciencia Política, FCPyS-UNAM, México, 1976.
+- *Teoría administrativa de la Ciencia Política.* FCPyS-UNAM, México, 1976.
 
-- [La Administración Pública del Estado Capitalista. INAP. México. 1979.](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
+- [*La administración pública del Estado capitalista.* INAP. México. 1979.](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
   - Publicado posteriormente por Fontamara en 1981, 1986, 1988, 1991, y 2022.
 
-- [El proceso histórico de la acción gubernamental: La administración pública en el modo de producción asiático. Instituto Nacional de Administración Pública. Cuajimalpa, México, D.F. 1982.](/pdfs/libros/PHAC.pdf){:target="_blank"}
+- [*El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. 1982.](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
 - Teoría administrativa de la ciencia política. Instituto de Investigaciones Jurídicas. México, D.F. 1982.
 
