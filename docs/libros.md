@@ -9,7 +9,8 @@ has_children: false
 
 - Teoría Administrativa de la Ciencia Política. Depto. de Ciencia Política, FCPyS-UNAM, México, 1976.
 
-- [La Administración Pública del Estado Capitalista. Barcelona, España. 1980 (hay una versión mexicana, por la misma Editorial). (16 MB/ .PDF)](/pdfs/libros/IntroAP01.pdf){:target="_blank"}
+- [La Administración Pública del Estado Capitalista. INAP. México. 1979.](/pdfs/libros/IntroAP01.pdf){:target="_blank"}
+  - Publicado posteriorment por editorial Fontamara en 1981, 1986, 1988, 1991, 2022
 
 - El proceso histórico de la acción gubernamental: La administración pública en el modo de producción asiático. Instituto Nacional de Administración Pública. Cuajimalpa, México, D.F. 1982.
 
