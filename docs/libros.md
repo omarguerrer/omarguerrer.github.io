@@ -7,19 +7,19 @@ has_children: false
 
 # Bibliografía de los libros publicados por el Dr. Guerrero Orozco
 
-- Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* FCPyS-UNAM, México.
+- Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* FCPyS-UNAM, México. [descargar](https://drive.google.com/file/d/1vW9xM6i3bmxRyOWQqxksTcMt42um4E_E/view?usp=drive_link){:target="_blank"}
   - Publicado posteriormente por el Instituto de Investigaciones Jurídicas de la UNAM en 1982. [descargar](/pdfs/libros/TACP1.pdf){:target="_blank"}
 
 - Guerrero, Omar (1979) *La administración pública del Estado capitalista.* INAP. México.  [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
-  - Publicado posteriormente por Fontamara en 1981, 1986, 1988, 1991, y 2022.
+  - Publicado posteriormente por Fontamara en sus ediciones de 1981, 1986, 1988, 1991, y 2022.
 
 - Guerrero, Omar (1982) *El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. [descargar](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
-- [*Introducción a la administración pública.* México, Harper and Row Latinoamericana. 1984.](/pdfs/libros/IntroAP.pdf){:target="_blank"}
+- Guerrero, Omar (1984) *Introducción a la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/IntroAP.pdf){:target="_blank"}
 
-- [*La teoría de la administración pública.* México, Harper and Row Latinoamericana. 1886.](/pdfs/libros/TAP.pdf){:target="_blank"}
+- Guerrero, Omar (1986) [*La teoría de la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
 
-- Las Ciencias de la Administración en el Estado Absolutista.  México, Fontamara. 1986. (12.5 Mb / PDF)
+- Guerrero, Omar (1985) Las ciencias de la administración en el Estado absolutista. Fontamara. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
 
 - El Estado y la Administración Pública en México.  México, Instituto Nacional de Administración Pública. 1989. (Por capítulos/.PDF)
 
