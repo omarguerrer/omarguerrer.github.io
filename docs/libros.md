@@ -7,7 +7,7 @@ has_children: false
 
 # Bibliografía de los libros publicados por el Dr. Guerrero Orozco
 
-- *Teoría administrativa de la Ciencia Política.* FCPyS-UNAM, México, 1976.
+* *Teoría administrativa de la Ciencia Política.* FCPyS-UNAM, México, 1976.
   - [Publicado posteriormente por el Instituto de Investigaciones Jurídicas de la UNAM en 1982.](/pdfs/libros/TACP1.pdf){:target="_blank"}
 
 - [*La administración pública del Estado capitalista.* INAP. México. 1979.](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
