@@ -39,12 +39,11 @@ Explicación.
 
 13. Guerrero, Omar (1994) *Las raíces borbónicas del Estado mexicano.* UNAM. [descargar](/pdfs/libros/Raices_borbonicas.pdf){:target="_blank"}
 
-14. Guerrero, Omar. (1995) *La formación profesional de administradores públicos en México. IAPEM, UAEM, CLAD. Méxco. [descargar](/pdfs/libros/fpap01.pdf){:target="_blank"}
+14. Guerrero, Omar (1995) *La formación profesional de administradores públicos en México. IAPEM, UAEM, CLAD. Méxco. [descargar](/pdfs/libros/fpap01.pdf){:target="_blank"}
 
 15. Guerrero, Omar (1993) *Estudio introductorio.* en von Justi, Juan Enrique. *Ciencia del Estado* IAPEM. México. [descargar](/pdfs/libros/Justi1.pdf){:target="_blank"}
 
-
-- La Secretaría de Justicia y el Estado de Derecho en México. México, Instituto de Investigaciones Jurídicas, UNAM. 1995.
+16. Guerrero, Omar (1995) *La secretaría de justicia y el Estado de derecho en México.* UNAM, México. [descargar](https://drive.google.com/file/d/13L03IC2l07L2J5G5WUKNauzKR-dVQ2Jc/view?usp=drive_link){:target="_blank"}
 
 - El papel de los ministerios de justicia y la reforma del Estado. México, Instituto de Investigaciones Jurídicas, UNAM, 1998.
 
