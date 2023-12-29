@@ -72,15 +72,16 @@ Explicación.
 
 29. Guerrero, Omar (2008) *Estudio introductorio* en Kautilya. *Arthasastra.* Miguel Álgel Porrúa. México. [descargar](/pdfs/libros/Arthasastra.pdf)
 
-30. Guerrero, Omar (2009) *El Neoliberalismo. De la utopía a la ideología.* Fontamara. México. [descargar](/pdfs/libros/neoliberalismo_utopia.pdf)
+30. Guerrero, Omar (2009) *El Neoliberalismo. De la utopía a la ideología.* Fontamara. México. [descargar](/pdfs/libros/neoliberalismo_utopia.pdf){:target="_blank"}
 
-31. Guerrero, Omar (2010) *La administración pública a través de las ciencias sociales.* Fondo de Cultura Económica. Porrúa. [descargar](/pdfs/libros/apcs.pdf)
+31. Guerrero, Omar (2010) *La administración pública a través de las ciencias sociales.* Fondo de Cultura Económica. Porrúa. [descargar](/pdfs/libros/apcs.pdf){:target="_blank"}
 
-32. Guerrero, Omar (2011) *Historia de la secretaría de gobernación. De su origen al final del siglo XX.* UNAM. México. [descargar](/pdfs/libros/gobernacion.pdf)
+32. Guerrero, Omar (2011) *Historia de la secretaría de gobernación. De su origen al final del siglo XX.* UNAM. México. [descargar](/pdfs/libros/gobernacion.pdf){:target="_blank"}
 
-33. Guerrero, Omar (2011) *Historia del servicio civil de carrera en México. Los protagonistas, las ideas, los testimonios.* Miguel Ángel Porrúa. México. [descargar](/pdfs/libros/HSCM.pdf)
+33. Guerrero, Omar (2011) *Historia del servicio civil de carrera en México. Los protagonistas, las ideas, los testimonios.* Miguel Ángel Porrúa. México. [descargar](/pdfs/libros/HSCM.pdf){:target="_blank"}
 
-- La Administración Pública en Gran Bretaña. Origen y desarrollo de la cultura administrativa británica. Instituto de Administración Pública del Estado de México, A.C. Toluca. México 2012. (versión en inglés)
+34. Guerrero, Omar (2011) *La administración pública en Gran Bretaña. Origen y desarrollo de la cultura administrativa británica.* IAPEM. México. [descargar](/pdfs/libros/apgb.pdf){:target="_blank"}
+    - Ediciones posteriores: versión en inglés ([2012](/pdfs/libros/AdministrationGreatBritain.pdf){:target="_blank"})
 
 - Public Administration in Great Britain. Mexican Culture Seminar, State of Mexico´s Institute of Public Administration. Mexico 2015.
 
