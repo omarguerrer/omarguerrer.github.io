@@ -11,8 +11,8 @@ Explicación.
 
 <br/><br/>
 
-1. Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* FCPyS-UNAM, México. [descargar](https://drive.google.com/file/d/1vW9xM6i3bmxRyOWQqxksTcMt42um4E_E/view?usp=drive_link){:target="_blank"}
-    - Ediciones posteriores: Instituto de Investigaciones Jurídicas de la UNAM ([1982](/pdfs/libros/TACP1.pdf){:target="_blank"}) y UAEM (2003)
+1. Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* UNAM, México. [descargar](https://drive.google.com/file/d/1vW9xM6i3bmxRyOWQqxksTcMt42um4E_E/view?usp=drive_link){:target="_blank"}
+    - Ediciones posteriores: UNAM ([1982](/pdfs/libros/TACP1.pdf){:target="_blank"}) y UAEM (2003)
 
 2. Guerrero, Omar (1979) *La administración pública del Estado capitalista.* INAP. México.  [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
     - Ediciones posteriores: Fontamara (1981, 1986, 1988, 1991, y 2022)
