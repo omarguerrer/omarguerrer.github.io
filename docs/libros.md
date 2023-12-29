@@ -5,9 +5,9 @@ nav_order: 2
 has_children: false
 ---
 
-# Libros del Dr. Guerrero Orozco
+# Lista completa de libros publicados
 
-Explicación.
+Omar Guerrero publicó más de 40 libros. La gran mayoría de autoría propia. Nótese que parte de su legado más destacado fue el redescubrimiento de clásicos de la administración pública que habían sido olvidados o completamente desconocidos por los académcos de la disciplina. Por ende, algunos de sus trabajos más importantes fueron la traducción y revisión de dichas obras, así como la preparación de estudios introductorios comprehensivos en cada uno de estos trabajos. Esta lista incluye dichas obras, así como dos libros collectivos donde el Dr. Guerrero fungió como coordinador.
 
 <br/><br/>
 
