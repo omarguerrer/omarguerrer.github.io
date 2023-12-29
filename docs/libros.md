@@ -50,7 +50,7 @@ Explicación.
 
 18. Guerrero, Omar (1998) *El papel de los ministerios de justicia y la reforma del Estado.* UNAM. México. [descargar](/pdfs/libros/papel_justicia.pdf){:target="_blank"}
 
-19. Guerrero, Omar (1998) *El funcionario, el diplomático y el juez.* Plaza y Valdés. México. [descargar](/pdfs/libros/El_funcionario_el_diplomatico_y_el_juez-compressed.pdf){:target="_blank"}
+19. Guerrero, Omar (1998) *El funcionario, el diplomático y el juez.* Plaza y Valdés. México. [descargar](/pdfs/libros/El_funcionario_el_diplomatico_y_el_juez.pdf){:target="_blank"}
 
 20. Guerrero, Omar (1999) *Del Estado gerencial al Estado cívico.* UAEM. [descargar](/pdfs/libros/Estado_gerencial.pdf){:target="_blank"}
 
@@ -62,7 +62,7 @@ Explicación.
 
 24. Guerrero, Omar (2004) *Gerencia Pública: una aproximación plural.* UNAM, México. [descargar](/pdfs/libros/gerencia_plural.pdf){:target="_blank"}
 
-- La Nueva gerencia pública: neoliberalismo en administración pública, México, Fontamara, 2004.
+25. Guerrero, Omar (2004) *La nueva gerencia pública. Neoliberalismo en administración pública.* Fontamara. México. [descargar](/pdfs/libros/ngp.pdf){:target="_blank"}
 
 - Tecnocracia o el Fin de la Política. México, Instituto de Investigaciones Jurídicas, UNAM. 2006.
 
