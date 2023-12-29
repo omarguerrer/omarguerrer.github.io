@@ -9,6 +9,8 @@ has_children: false
 
 Explicación.
 
+<br/><br/>
+
 1. Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* FCPyS-UNAM, México. [descargar](https://drive.google.com/file/d/1vW9xM6i3bmxRyOWQqxksTcMt42um4E_E/view?usp=drive_link){:target="_blank"}
     - Ediciones posteriores: Instituto de Investigaciones Jurídicas de la UNAM (1982). [descargar](/pdfs/libros/TACP1.pdf){:target="_blank"}
 
