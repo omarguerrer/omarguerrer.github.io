@@ -48,10 +48,10 @@ Explicación.
 17. Guerrero, Omar (1997) *Principios de administración pública.* ESAP. Colombia. [descargar](/pdfs/libros/papp200.pdf){:target="_blank"}
     - Ediciones posteriores: INAP ([2019](/pdfs/libros/principios_de_administracion_publica.pdf){:target="_blank"}).
 
+18. Guerrero, Omar (1998) *El papel de los ministerios de justicia y la reforma del Estado.* UNAM. México. [descargar](https://drive.google.com/file/d/16WO4WHuxdSK7KAXCRvbCmWEPqQRYRY-X/view?usp=drive_link){:target="_blank"}
 
-- El papel de los ministerios de justicia y la reforma del Estado. México, Instituto de Investigaciones Jurídicas, UNAM, 1998.
+19. Guerrero, Omar (1998) *El funcionario, el diplomático y el juez.* Plaza y Valdés. México. [descargar](https://drive.google.com/file/d/1wi4CgceVmQWktL3JmgwF3EGFlHCosK8d/view?usp=drive_link){:target="_blank"}
 
-- El Funcionario, el Diplomático y el Juez. Universidad de Guanajuato/ Instituto de Administración Pública de Guanajuato/Instituto Nacional de Administración Pública/Plaza y Valdés Editores. México. 1998.
 
 - Principios de Administración Pública. Santafé de Bogotá, Colombia. Escuela Superior de Administración Pública. (1997) 2000.(nueva edición)
 
