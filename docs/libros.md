@@ -7,35 +7,37 @@ has_children: false
 
 # Bibliografía de los libros publicados por el Dr. Guerrero Orozco
 
+Explicación.
+
 1. Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* FCPyS-UNAM, México. [descargar](https://drive.google.com/file/d/1vW9xM6i3bmxRyOWQqxksTcMt42um4E_E/view?usp=drive_link){:target="_blank"}
     - Publicado posteriormente por el Instituto de Investigaciones Jurídicas de la UNAM en 1982. [descargar](/pdfs/libros/TACP1.pdf){:target="_blank"}
 
 2. Guerrero, Omar (1979) *La administración pública del Estado capitalista.* INAP. México.  [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
     - Publicado posteriormente por Fontamara en sus ediciones de 1981, 1986, 1988, 1991, y 2022.
 
-- Guerrero, Omar (1982) *El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. [descargar](/pdfs/libros/PHAC.pdf){:target="_blank"}
+3. Guerrero, Omar (1982) *El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. [descargar](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
-- Guerrero, Omar (1984) *Introducción a la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/IntroAP.pdf){:target="_blank"}
+4. Guerrero, Omar (1984) *Introducción a la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/IntroAP.pdf){:target="_blank"}
 
-- Guerrero, Omar (1986) *La teoría de la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
+5. Guerrero, Omar (1986) *La teoría de la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
 
-- Guerrero, Omar (1985) *Las ciencias de la administración en el Estado absolutista.* Fontamara. México. [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
+6. Guerrero, Omar (1985) *Las ciencias de la administración en el Estado absolutista.* Fontamara. México. [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
 
-- Guerrero, Omar (1989) *El Estado y la administración pública en México.* INAP. México. [descargar](/pdfs/libros/estado_admin_mexico.pdf){:target="_blank"}
+7. Guerrero, Omar (1989) *El Estado y la administración pública en México.* INAP. México. [descargar](/pdfs/libros/estado_admin_mexico.pdf){:target="_blank"}
 
-- Guerrero, Omar (1991) *La administración pública en el estado de Guerrero.* Instituto de Administración Pública del Estado de Guerrero. México. [descargar](/pdfs/libros/APEG.pdf){:target="_blank"}
+8. Guerrero, Omar (1991) *La administración pública en el estado de Guerrero.* Instituto de Administración Pública del Estado de Guerrero. México. [descargar](/pdfs/libros/APEG.pdf){:target="_blank"}
 
-- Guerrero, Omar (1992) *El Estado en la era de la modernización.* Plaza y Valdés. México. [descargar](/pdfs/libros/El_Estado_en_la_era_de_la_modernizacion.pdf){:target="_blank"}
+9. Guerrero, Omar (1992) *El Estado en la era de la modernización.* Plaza y Valdés. México. [descargar](/pdfs/libros/El_Estado_en_la_era_de_la_modernizacion.pdf){:target="_blank"}
 
-- Guerrero, Omar (1992) *Políticas y criterios tecnicos para la modernización curricular de la formación de gerentes publicos en Iberoamérica* CLAD. Venezuela. [descargar](/pdfs/libros/Modernizacion.pdf){:target="_blank"}
+10. Guerrero, Omar (1992) *Políticas y criterios tecnicos para la modernización curricular de la formación de gerentes publicos en Iberoamérica* CLAD. Venezuela. [descargar](/pdfs/libros/Modernizacion.pdf){:target="_blank"}
 
-- González, Florentino (1993) *Elementos de la ciencia administrativa* ESAP. Colombia. [descargar](/pdfs/libros/Florentino1.pdf){:target="_blank"}
+11. Guerrero, Omar (1993) *Estudio introductorio.* en González, Florentino. *Elementos de la ciencia administrativa* ESAP. Colombia. [descargar](/pdfs/libros/Florentino1.pdf){:target="_blank"}
 
-- Guerrero, Omar (1993) *Historia de la secretaría de relaciones exteriores.* Secretaría de Relaciones Exteriores. México. [descargar](/pdfs/libros/HSRE1.pdf){:target="_blank"}
+12. Guerrero, Omar (1993) *Historia de la secretaría de relaciones exteriores.* Secretaría de Relaciones Exteriores. México. [descargar](/pdfs/libros/HSRE1.pdf){:target="_blank"}
 
-- Guerrero, Omar (1994) *Las raíces borbónicas del Estado mexicano.* UNAM. [descargar](/pdfs/libros/Raices_borbonicas.pdf){:target="_blank"}
+13. Guerrero, Omar (1994) *Las raíces borbónicas del Estado mexicano.* UNAM. [descargar](/pdfs/libros/Raices_borbonicas.pdf){:target="_blank"}
 
-- Guerrero, Omar. (1995) *La formación profesional de administradores públicos en México. Instituto de Administración Pública del Estado de México, UAEM, CLAD. Méxco. [descargar](/pdfs/libros/fpap01.pdf){:target="_blank"}
+14. Guerrero, Omar. (1995) *La formación profesional de administradores públicos en México. Instituto de Administración Pública del Estado de México, UAEM, CLAD. Méxco. [descargar](/pdfs/libros/fpap01.pdf){:target="_blank"}
 
 
 - La Secretaría de Justicia y el Estado de Derecho en México. México, Instituto de Investigaciones Jurídicas, UNAM. 1995.
