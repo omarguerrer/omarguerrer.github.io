@@ -66,9 +66,14 @@ Explicación.
 
 26. Guerrero, Omar (2004) *Estudio introductorio* en Bonnin, Charles-Jean. *Principios de administración pública.* Fondo de Cultura Económica. México. [descargar](/pdfs/libros/papEstudioIntro.pdf){:target="_blank"}
 
-- Tecnocracia o el Fin de la Política. México, Instituto de Investigaciones Jurídicas, UNAM. 2006.
+27. Guerrero, Omar (2006) *Léxico de la administración pública. Conceptos básicos.* UNAM. México. [descargar](/pdfs/libros/LexicoAdmonPublica.pdf){:target="_blank"}
 
-- Neoliberalismo. Ideología y utopía, México, Fontamara, 2009.
+28. Guerrero, Omar (2006) *Tecnocracia o el Fin de la Política.* UNAM. México. [descargar](/pdfs/libros/tecnocracia.pdf){:target="_blank"}
+
+29. Guerrero, Omar (2008) *Estudio introductorio* en Kautilya. *Arthasastra.* Miguel Álgel Porrúa. México. [descargar](/pdfs/libros/Arthasastra.pdf)
+
+30. Guerrero, Omar (2009) *El Neoliberalismo. De la utopía a la ideología.* Fontamara. México. [descargar](/pdfs/libros/neoliberalismo_utopia.pdf)
+
 
 - La Administración Pública en Gran Bretaña. Origen y desarrollo de la cultura administrativa británica. Instituto de Administración Pública del Estado de México, A.C. Toluca. México 2012. (versión en inglés)
 
