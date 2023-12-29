@@ -85,7 +85,13 @@ Explicación.
 
 35. Guerrero, Omar (2015) *El abogado en el bufete, el foro y la administración pública.* UNAM. México. [descargar](/pdfs/libros/abogado.pdf){:target="_blank"}
 
-- La administración pública en las humanidades, Seminario de Cultura Mexicana / Universidad Autónoma del Estado de México, México, 2016.
+36. Guerrero, Omar (2015) *Estudio introductorio* en Pérez de Arce, Hermógenes. *El administrador público. Principios generales de administración.* INAP. México. [descargar](/pdfs/libros/el-administrador-publico-o-sea-estudios-sobre-principios-generales-de-administracion.pdf){:target="_blank"}
+
+37. Guerrero, Omar (2016) *La administración pública en las humanidades.* Seminario de Cultura Mexicana. México. [descargar](/pdfs/libros/aphumanidades.pdf){:target="_blank"}
+
+38. Guerrero, Omar (2016) *Estudio introductorio* en von Stein, Lorenz. *Tratado de la teoría administrativa y del derecho administrativo.* Fondo de Cultura Económica.
+
+
 
 - Principios de administración pública, 2a ed., México, Instituto Nacional de Administración Pública, 2019.
 
