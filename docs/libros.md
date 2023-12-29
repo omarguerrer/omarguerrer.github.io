@@ -64,7 +64,7 @@ Explicación.
 
 25. Guerrero, Omar (2004) *La nueva gerencia pública. Neoliberalismo en administración pública.* Fontamara. México. [descargar](/pdfs/libros/ngp.pdf){:target="_blank"}
 
-26. Guerrero, Omar (2004) *Estudio introductorio* en Bonnin, Charles-Jean *Principios de administración pública.* Fondo de Cultura Económica. México. 
+26. Guerrero, Omar (2004) *Estudio introductorio* en Bonnin, Charles-Jean. *Principios de administración pública.* Fondo de Cultura Económica. México. [descargar](/pdfs/libros/papEstudioIntro.pdf){:target="_blank"}
 
 - Tecnocracia o el Fin de la Política. México, Instituto de Investigaciones Jurídicas, UNAM. 2006.
 
