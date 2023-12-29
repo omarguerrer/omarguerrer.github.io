@@ -78,6 +78,8 @@ Explicación.
 
 32. Guerrero, Omar (2011) *Historia de la secretaría de gobernación. De su origen al final del siglo XX.* UNAM. México. [descargar](/pdfs/libros/gobernacion.pdf)
 
+33. Guerrero, Omar (2011) *Historia del servicio civil de carrera en México. Los protagonistas, las ideas, los testimonios.* Miguel Ángel Porrúa. México. [descargar](/pdfs/libros/HSCM.pdf)
+
 - La Administración Pública en Gran Bretaña. Origen y desarrollo de la cultura administrativa británica. Instituto de Administración Pública del Estado de México, A.C. Toluca. México 2012. (versión en inglés)
 
 - Public Administration in Great Britain. Mexican Culture Seminar, State of Mexico´s Institute of Public Administration. Mexico 2015.
