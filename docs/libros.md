@@ -12,10 +12,10 @@ Explicación.
 <br/><br/>
 
 1. Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* FCPyS-UNAM, México. [descargar](https://drive.google.com/file/d/1vW9xM6i3bmxRyOWQqxksTcMt42um4E_E/view?usp=drive_link){:target="_blank"}
-    - Ediciones posteriores: Instituto de Investigaciones Jurídicas de la UNAM ([1982](/pdfs/libros/TACP1.pdf){:target="_blank"})
+    - Ediciones posteriores: Instituto de Investigaciones Jurídicas de la UNAM ([1982](/pdfs/libros/TACP1.pdf){:target="_blank"}) y UAEM (2003)
 
 2. Guerrero, Omar (1979) *La administración pública del Estado capitalista.* INAP. México.  [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
-    - Ediciones posteriores: Fontamara (1981, 1986, 1988, 1991, y 2022).
+    - Ediciones posteriores: Fontamara (1981, 1986, 1988, 1991, y 2022)
 
 3. Guerrero, Omar (1982) *El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. [descargar](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
@@ -46,7 +46,7 @@ Explicación.
 16. Guerrero, Omar (1995) *La secretaría de justicia y el Estado de derecho en México.* UNAM, México. [descargar](https://drive.google.com/file/d/13L03IC2l07L2J5G5WUKNauzKR-dVQ2Jc/view?usp=drive_link){:target="_blank"}
 
 17. Guerrero, Omar (1997) *Principios de administración pública.* ESAP. Colombia. [descargar](/pdfs/libros/papp200.pdf){:target="_blank"}
-    - Ediciones posteriores: INAP ([2019](/pdfs/libros/principios_de_administracion_publica.pdf){:target="_blank"}).
+    - Ediciones posteriores: INAP ([2019](/pdfs/libros/principios_de_administracion_publica.pdf){:target="_blank"})
 
 18. Guerrero, Omar (1998) *El papel de los ministerios de justicia y la reforma del Estado.* UNAM. México. [descargar](https://drive.google.com/file/d/16WO4WHuxdSK7KAXCRvbCmWEPqQRYRY-X/view?usp=drive_link){:target="_blank"}
 
