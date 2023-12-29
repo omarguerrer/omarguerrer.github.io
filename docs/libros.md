@@ -43,20 +43,20 @@ Explicación.
 
 15. Guerrero, Omar (1993) *Estudio introductorio.* en von Justi, Juan Enrique. *Ciencia del Estado* IAPEM. México. [descargar](/pdfs/libros/Justi1.pdf){:target="_blank"}
 
-16. Guerrero, Omar (1995) *La secretaría de justicia y el Estado de derecho en México.* UNAM, México. [descargar](https://drive.google.com/file/d/13L03IC2l07L2J5G5WUKNauzKR-dVQ2Jc/view?usp=drive_link){:target="_blank"}
+16. Guerrero, Omar (1995) *La secretaría de justicia y el Estado de derecho en México.* UNAM, México. [descargar](/pdfs/libros/secre_justicia.pdf){:target="_blank"}
 
 17. Guerrero, Omar (1997) *Principios de administración pública.* ESAP. Colombia. [descargar](/pdfs/libros/papp200.pdf){:target="_blank"}
     - Ediciones posteriores: INAP ([2019](/pdfs/libros/principios_de_administracion_publica.pdf){:target="_blank"})
 
-18. Guerrero, Omar (1998) *El papel de los ministerios de justicia y la reforma del Estado.* UNAM. México. [descargar](https://drive.google.com/file/d/16WO4WHuxdSK7KAXCRvbCmWEPqQRYRY-X/view?usp=drive_link){:target="_blank"}
+18. Guerrero, Omar (1998) *El papel de los ministerios de justicia y la reforma del Estado.* UNAM. México. [descargar](/pdfs/libros/papel_justicia.pdf){:target="_blank"}
 
-19. Guerrero, Omar (1998) *El funcionario, el diplomático y el juez.* Plaza y Valdés. México. [descargar](https://drive.google.com/file/d/1wi4CgceVmQWktL3JmgwF3EGFlHCosK8d/view?usp=drive_link){:target="_blank"}
+19. Guerrero, Omar (1998) *El funcionario, el diplomático y el juez.* Plaza y Valdés. México. [descargar](/pdfs/libros/El_funcionario_el_diplomatico_y_el_juez-compressed.pdf){:target="_blank"}
 
 20. Guerrero, Omar (1999) *Del Estado gerencial al Estado cívico.* UAEM. [descargar](/pdfs/libros/Estado_gerencial.pdf){:target="_blank"}
 
 21. Guerrero, Omar (2000) *Teoría Administrativa del Estado.* Oxford University Press. México. [descargar](/pdfs/libros/TAE.pdf){:target="_blank"}
 
-22. Guerrero, Omar (2003) *Ley del servicio profesional de carrera en la administración pública federal. Una apreciación administrativa.* UNAM. México. [descargar](https://drive.google.com/file/d/1TKBqM7ParIuuMT7ZJxGuS7hvFrj76mBw/view?usp=drive_link){:target="_blank"}
+22. Guerrero, Omar (2003) *La ley del servicio profesional de carrera en la administración pública federal. Una apreciación administrativa.* UNAM. México. [descargar](/pdfs/libros/ley_servicio.pdf){:target="_blank"}
 
 23. Guerrero, Omar (2003) *Gerencia pública en la globalización.* Miguel Ángel Porrúa. México. [descargar](/pdfs/libros/gerencia_publica.pdf){:target="_blank"}
 
