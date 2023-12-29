@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 
-# Bibliografía de libros del Dr. Guerrero Orozco
+# Libros del Dr. Guerrero Orozco
 
 Explicación.
 
@@ -58,9 +58,9 @@ Explicación.
 
 22. Guerrero, Omar (2003) *Ley del servicio profesional de carrera en la administración pública federal. Una apreciación administrativa.* UNAM. México. [descargar](https://drive.google.com/file/d/1TKBqM7ParIuuMT7ZJxGuS7hvFrj76mBw/view?usp=drive_link){:target="_blank"}
 
-23. Guerrero, Omar (2003) *Gerencia pública en la globalización.* Miguel Ángel Porrúa. México. [descargar](/pdfs/libros/gerencia_pulica.pdf){:target="_blank"}
+23. Guerrero, Omar (2003) *Gerencia pública en la globalización.* Miguel Ángel Porrúa. México. [descargar](/pdfs/libros/gerencia_publica.pdf){:target="_blank"}
 
-- Gerencia Pública: una aproximación plural. Dirección general de publicaciones y fomento editorial. FCPyS-UNAM, México 2004.
+24. Guerrero, Omar (2004) *Gerencia Pública: una aproximación plural.* UNAM, México. [descargar](/pdfs/libros/gerencia_plural.pdf){:target="_blank"}
 
 - La Nueva gerencia pública: neoliberalismo en administración pública, México, Fontamara, 2004.
 
