@@ -56,9 +56,9 @@ Explicación.
 
 21. Guerrero, Omar (2000) *Teoría Administrativa del Estado.* Oxford University Press. México. [descargar](/pdfs/libros/TAE.pdf){:target="_blank"}
 
-- Ley del Servicio Profesional de Carrera en la Administración Pública Federal: Una apreciación administrativa. Instituto de Investifgaciones Jurídicas, México, Instituto de Investigaciones Jurídicas, UNAM, 2003.
+22. Guerrero, Omar (2003) *Ley del servicio profesional de carrera en la administración pública federal. Una apreciación administrativa.* UNAM. México. [descargar](https://drive.google.com/file/d/1TKBqM7ParIuuMT7ZJxGuS7hvFrj76mBw/view?usp=drive_link){:target="_blank"}
 
-- Gerencia Pública en la Globalización. Miguel Ángel Porrúa; Universidad Autónoma del Estado de México, México, 2003.
+23. Guerrero, Omar (2003) *Gerencia pública en la globalización.* Miguel Ángel Porrúa. México. [descargar](/pdfs/libros/gerencia_pulica.pdf){:target="_blank"}
 
 - Gerencia Pública: una aproximación plural. Dirección general de publicaciones y fomento editorial. FCPyS-UNAM, México 2004.
 
