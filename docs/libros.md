@@ -74,6 +74,9 @@ Explicación.
 
 30. Guerrero, Omar (2009) *El Neoliberalismo. De la utopía a la ideología.* Fontamara. México. [descargar](/pdfs/libros/neoliberalismo_utopia.pdf)
 
+31. Guerrero, Omar (2010) *La administración pública a través de las ciencias sociales.* Fondo de Cultura Económica. Porrúa. [descargar](/pdfs/libros/apcs.pdf)
+
+32. Guerrero, Omar (2011) *Historia de la secretaría de gobernación. De su origen al final del siglo XX.* UNAM. México. [descargar](/pdfs/libros/gobernacion.pdf)
 
 - La Administración Pública en Gran Bretaña. Origen y desarrollo de la cultura administrativa británica. Instituto de Administración Pública del Estado de México, A.C. Toluca. México 2012. (versión en inglés)
 
