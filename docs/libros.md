@@ -10,10 +10,10 @@ has_children: false
 Explicación.
 
 1. Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* FCPyS-UNAM, México. [descargar](https://drive.google.com/file/d/1vW9xM6i3bmxRyOWQqxksTcMt42um4E_E/view?usp=drive_link){:target="_blank"}
-    - Publicado posteriormente por el Instituto de Investigaciones Jurídicas de la UNAM en 1982. [descargar](/pdfs/libros/TACP1.pdf){:target="_blank"}
+    - Ediciones posteriores: Instituto de Investigaciones Jurídicas de la UNAM (1982). [descargar](/pdfs/libros/TACP1.pdf){:target="_blank"}
 
 2. Guerrero, Omar (1979) *La administración pública del Estado capitalista.* INAP. México.  [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
-    - Publicado posteriormente por Fontamara en sus ediciones de 1981, 1986, 1988, 1991, y 2022.
+    - Ediciones posteriores: Fontamara (1981, 1986, 1988, 1991, y 2022).
 
 3. Guerrero, Omar (1982) *El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. [descargar](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
@@ -37,7 +37,9 @@ Explicación.
 
 13. Guerrero, Omar (1994) *Las raíces borbónicas del Estado mexicano.* UNAM. [descargar](/pdfs/libros/Raices_borbonicas.pdf){:target="_blank"}
 
-14. Guerrero, Omar. (1995) *La formación profesional de administradores públicos en México. Instituto de Administración Pública del Estado de México, UAEM, CLAD. Méxco. [descargar](/pdfs/libros/fpap01.pdf){:target="_blank"}
+14. Guerrero, Omar. (1995) *La formación profesional de administradores públicos en México. IAPEM, UAEM, CLAD. Méxco. [descargar](/pdfs/libros/fpap01.pdf){:target="_blank"}
+
+15. Guerrero, Omar (1993) *Estudio introductorio.* en von Justi, Juan Enrique. *Ciencia del Estado* IAPEM. México. [descargar](/pdfs/libros/Justi1.pdf){:target="_blank"}
 
 
 - La Secretaría de Justicia y el Estado de Derecho en México. México, Instituto de Investigaciones Jurídicas, UNAM. 1995.
