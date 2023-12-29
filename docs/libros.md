@@ -45,6 +45,10 @@ Explicación.
 
 16. Guerrero, Omar (1995) *La secretaría de justicia y el Estado de derecho en México.* UNAM, México. [descargar](https://drive.google.com/file/d/13L03IC2l07L2J5G5WUKNauzKR-dVQ2Jc/view?usp=drive_link){:target="_blank"}
 
+17. Guerrero, Omar (1997) *Principios de administración pública.* ESAP. Colombia. [descargar](/pdfs/libros/papp200.pdf){:target="_blank"}
+    - Ediciones posteriores: INAP ([2019](/pdfs/libros/principios_de_administracion_publica.pdf){:target="_blank"}).
+
+
 - El papel de los ministerios de justicia y la reforma del Estado. México, Instituto de Investigaciones Jurídicas, UNAM, 1998.
 
 - El Funcionario, el Diplomático y el Juez. Universidad de Guanajuato/ Instituto de Administración Pública de Guanajuato/Instituto Nacional de Administración Pública/Plaza y Valdés Editores. México. 1998.
