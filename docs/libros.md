@@ -5,7 +5,7 @@ nav_order: 2
 has_children: false
 ---
 
-# Bibliografía de los libros publicados por el Dr. Guerrero Orozco
+# Bibliografía de libros del Dr. Guerrero Orozco
 
 Explicación.
 
