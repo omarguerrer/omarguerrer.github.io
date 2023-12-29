@@ -52,12 +52,9 @@ Explicación.
 
 19. Guerrero, Omar (1998) *El funcionario, el diplomático y el juez.* Plaza y Valdés. México. [descargar](https://drive.google.com/file/d/1wi4CgceVmQWktL3JmgwF3EGFlHCosK8d/view?usp=drive_link){:target="_blank"}
 
+20. Guerrero, Omar (1999) *Del Estado gerencial al Estado cívico.* UAEM. [descargar](/pdfs/libros/Estado_gerencial.pdf){:target="_blank"}
 
-- Principios de Administración Pública. Santafé de Bogotá, Colombia. Escuela Superior de Administración Pública. (1997) 2000.(nueva edición)
-
-- Del Estado Gerencial al Estado Cívico. México, Universidad Autónoma del Estado de México y Edit. Miguel Ángel Porrúa. 1999.
-
-- Teoría Administrativa del Estado. México, Oxford University Press. 2000.
+21. Guerrero, Omar (2000) *Teoría Administrativa del Estado.* Oxford University Press. México. [descargar](/pdfs/libros/TAE.pdf){:target="_blank"}
 
 - Ley del Servicio Profesional de Carrera en la Administración Pública Federal: Una apreciación administrativa. Instituto de Investifgaciones Jurídicas, México, Instituto de Investigaciones Jurídicas, UNAM, 2003.
 
