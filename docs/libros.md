@@ -89,12 +89,13 @@ Explicación.
 
 37. Guerrero, Omar (2016) *La administración pública en las humanidades.* Seminario de Cultura Mexicana. México. [descargar](/pdfs/libros/aphumanidades.pdf){:target="_blank"}
 
-38. Guerrero, Omar (2016) *Estudio introductorio* en von Stein, Lorenz. *Tratado de la teoría administrativa y del derecho administrativo.* Fondo de Cultura Económica.
+38. Guerrero, Omar (2016) *Estudio introductorio* en von Stein, Lorenz. *Tratado de la teoría administrativa y del derecho administrativo.* Fondo de Cultura Económica. [descargar](/pdfs/libros/Stein.pdf){:target="_blank"}
 
+39. Guerrero, Omar (2017) *Estudio introductorio* en Ferraris, Carlo. *Ensayos sobre la ciencia de la administración.* Universidad de Sonora. México. [descargar](/pdfs/libros/CarloFerraris.EnsayosCienciaAdministracion.pdf){:target="_blank"}
 
+40. Guerrero, Omar (2018) *El pensamiento administrativo en la Turquía otomana.* Seminario de Cultura Mexicana. México. [descargar](/pdfs/libros/turquiaotomana.pdf){:target="_blank"}
 
-- Principios de administración pública, 2a ed., México, Instituto Nacional de Administración Pública, 2019.
+41. Guerrero, Omar (2018) *La administración pública.* Seminario de Cultura Mexicana. México. [descargar](/pdfs/libros/laadministracionpublica.pdf){:target="_blank"}
 
-- El Imperio bizantino. Biografía de un Estado administrativo, México,Seminario de Cultura Mexicana, 2021.
+42. Guerrero, Omar (2021) *El Imperio bizantino. Biografía de un Estado administrativo.* Seminario de Cultura Mexicana. México. [descargar](/pdfs/libros/ImperioBizantino.pdf){:target="_blank"}
 
-- Alejandro Zarur, La obra de Omar Guerrerro.Toluca, Instituto de Administración Pública del Estado de México, 1997.
