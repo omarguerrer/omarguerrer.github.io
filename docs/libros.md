@@ -31,7 +31,7 @@ Explicación.
 
 10. Guerrero, Omar (1992) *Políticas y criterios tecnicos para la modernización curricular de la formación de gerentes publicos en Iberoamérica* CLAD. Venezuela. [descargar](/pdfs/libros/Modernizacion.pdf){:target="_blank"}
 
-11. Guerrero, Omar (1993) *Estudio introductorio.* en González, Florentino. *Elementos de la ciencia administrativa* ESAP. Colombia. [descargar](/pdfs/libros/Florentino1.pdf){:target="_blank"}
+11. Guerrero, Omar (1993) *Estudio introductorio.* en González, Florentino. *Elementos de la ciencia administrativa.* ESAP. Colombia. [descargar](/pdfs/libros/Florentino1.pdf){:target="_blank"}
 
 12. Guerrero, Omar (1993) *Historia de la secretaría de relaciones exteriores.* Secretaría de Relaciones Exteriores. México. [descargar](/pdfs/libros/HSRE1.pdf){:target="_blank"}
 
