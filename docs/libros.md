@@ -83,9 +83,7 @@ Explicación.
 34. Guerrero, Omar (2011) *La administración pública en Gran Bretaña. Origen y desarrollo de la cultura administrativa británica.* IAPEM. México. [descargar](/pdfs/libros/apgb.pdf){:target="_blank"}
     - Ediciones posteriores: versión en inglés ([2012](/pdfs/libros/AdministrationGreatBritain.pdf){:target="_blank"})
 
-- Public Administration in Great Britain. Mexican Culture Seminar, State of Mexico´s Institute of Public Administration. Mexico 2015.
-
-- El abogado en el bufete, el foro y la administración pública, Instituto de Investigaciones Jurídicas, UNAM, México 2015.
+35. Guerrero, Omar (2015) *El abogado en el bufete, el foro y la administración pública.* UNAM. México. [descargar](/pdfs/libros/abogado.pdf){:target="_blank"}
 
 - La administración pública en las humanidades, Seminario de Cultura Mexicana / Universidad Autónoma del Estado de México, México, 2016.
 
