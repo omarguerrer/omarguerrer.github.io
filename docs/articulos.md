@@ -56,6 +56,11 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 1. El análisis de implementación de políticas públicas. [descargar](/pdfs/articulos/1990/AnalisisImplementa.pdf){:target="_blank"}
 2. De la administración pública a la gerencia social. [descargar](/pdfs/articulos/1990/APgerenciaSocial.pdf){:target="_blank"}
 3. La administración pública de políticas sociales. [descargar](/pdfs/articulos/1990/APpoliticasSoc.pdf){:target="_blank"}
+4. Perfil de la administración pública socialmente necesaria. [descargar](/pdfs/articulos/1990/APsocialmenteNec.pdf){:target="_blank"}
+5. La carrera administrativa en México, entre la policy y la política. [descargar](/pdfs/articulos/1990/CarreraAdvaMexico.pdf){:target="_blank"}
+6. Clásicos de la teoría de la administración pública. [descargar](/pdfs/articulos/1990/ClásicosAP.pdf){:target="_blank"}
+7. Comentarios. [descargar](/pdfs/articulos/1990/ComentariosSEGOB.pdf){:target="_blank"}
+
 
 
 ## Década de 2000
