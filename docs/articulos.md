@@ -10,7 +10,13 @@ has_children: false
 Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 150 artículos a lo largo de su carrera. En esta página es posible descargar la mayor parte de estos trabajos.
 
 ## Década de 1970
-1. La administración pública en México desdpués de la década de los setentas [descargar](/pdfs/libros/APmexSetenta.pdf){:target="_blank"}
+1. La administración pública en México desdpués de la década de los setentas. [descargar](/pdfs/libros/APmexSetenta.pdf){:target="_blank"}
+2. La centralización como elemento estructural del Estado. [descargar](/pdfs/libros/CentralizacionEstatalSXIX.pdf){:target="_blank"}
+3. Gaetano Mosca: la política profesional de la clase gobernante. [descargar](/pdfs/libros/GaetanoMosca.pdf){:target="_blank"}
+4. La profesión del licenciado en ciencias políticas y administración pública. [descargar](/pdfs/libros/LicCPyAP.pdf){:target="_blank"}
+5. Modernización y administración pública: fundamentos teóricos en lapalombara, eisenstadt y apter. [descargar](/pdfs/libros/ModerAP.pdf){:target="_blank"}
+6. La razón de Estado. [descargar](/pdfs/libros/RazonEstado1.pdf){:target="_blank"}
+
 
 
 ## Década de 1980
