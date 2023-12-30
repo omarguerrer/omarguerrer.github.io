@@ -7,7 +7,7 @@ has_children: false
 
 # Lista comprehensiva de artículos
 
-Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 150 artículos a lo largo de su carrera. En esta página es posible descargar la mayor parte de estos trabajos. Los artículos han sido organizados por décadas.
+Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 150 artículos a lo largo de su carrera. En esta página es posible descargar la mayor parte de estos trabajos. Los artículos han sido organizados por décadas: [1970](#Década-de-1970)
 
 ## Década de 1970
 1. La administración pública en México desdpués de la década de los setentas. [descargar](/pdfs/articulos/1970/APmexSetenta.pdf){:target="_blank"}
