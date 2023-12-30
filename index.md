@@ -8,7 +8,7 @@ has_children: false
 ![test](/imagenes/bio/editada.jpg){:height="70%" width="70%" align="center"}
 
 
-Este sitio contiene la obra que el Dr. Omar Guerrero Orozco (1946-2023) desarrolló a lo largo de más de cinco décadas de investigación sobre Administración Pública. El legado científico del Dr. Guerrero abarca más de 40 libros publicados, más de 100 artículos, además de capítulos de libros, prefacios, y diversos materiales de divulgación. La finalidad de este espacio es el poner a disposición del lector la mayor parte de estos trabajos para promover y divulgar el legado científico del Dr. Guerrero Orozco.
+Este sitio contiene la obra que el Dr. Omar Guerrero Orozco (1946-2023) desarrolló a lo largo de más de cinco décadas de investigación sobre Administración Pública. El legado científico del Dr. Guerrero abarca más de 40 libros publicados y más de 150 artículos; además de capítulos de libros, prefacios, y diversos materiales de divulgación. La finalidad de este espacio es el poner a disposición del lector la mayor parte de estos trabajos para promover y divulgar el legado científico del Dr. Guerrero Orozco.
 
 # Semblanza
 
