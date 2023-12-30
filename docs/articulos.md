@@ -60,6 +60,19 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 5. La carrera administrativa en México, entre la policy y la política. [descargar](/pdfs/articulos/1990/CarreraAdvaMexico.pdf){:target="_blank"}
 6. Clásicos de la teoría de la administración pública. [descargar](/pdfs/articulos/1990/ClásicosAP.pdf){:target="_blank"}
 7. Comentarios. [descargar](/pdfs/articulos/1990/ComentariosSEGOB.pdf){:target="_blank"}
+8. Cruzada en pro de la administración pública: perspectivas de la ciencia de la administración pública desde Iberoamérica . [descargar](/pdfs/articulos/1990/CruzadaEnProAP.pdf){:target="_blank"}
+9. La descolonización y los efectos archivísticos en el subdesarrollo administrativo y democrático (el caso de Argelia). [descargar](/pdfs/articulos/1990/DescolonizacionYap.pdf){:target="_blank"}
+10. El Estado y su evolución. [descargar](/pdfs/articulos/1990/EstadoEvoluVirreinato.pdf){:target="_blank"}
+11. El éxito y fracaso de la evaluación del desempeño gubernamental. [descargar](/pdfs/articulos/1990/ExitoFracasoAccionGuber.pdf){:target="_blank"}
+12. La experiencia mexicana en la formación de administradores públicos. [descargar](/pdfs/articulos/1990/ExpeMexAdminisPubl.pdf){:target="_blank"}
+13. La experiencia de la formación profesional y el servicio público en México. [descargar](/pdfs/articulos/1990/ExperienciaMexSpublico.pdf){:target="_blank"}
+14. Los usos del análisis de implementación de políticas. [descargar](/pdfs/articulos/1990/Implementacion.pdf){:target="_blank"}
+15. Implementación de políticas como gobernabilidad. [descargar](/pdfs/articulos/1990/ImplementaPoliticaGoberna.pdf){:target="_blank"}
+16. Ingobernabilidad: difución y quebranto estructural. [descargar](/pdfs/articulos/1990/Ingobernabilidad.pdf){:target="_blank"}
+17. Ingovernabilidade: disfunção e quebra estrutural. [descargar](/pdfs/articulos/1990/Ingobernabilidade.pdf){:target="_blank"}
+18. Papel de los ministerios de justicia en la reforma del Estado. [descargar](/pdfs/articulos/1990/MinisteriosJusticia1.pdf){:target="_blank"}
+19. El mito del nuevo "Management" público. [descargar](/pdfs/articulos/1990/MitoNGPVen.pdf){:target="_blank"}
+20. Modernización de la administración estatal en el estado de Guerrero. [descargar](/pdfs/articulos/1990/ModernizacionEdoGuerrero.pdf){:target="_blank"}
 
 
 
