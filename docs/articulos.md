@@ -10,6 +10,7 @@ has_children: false
 Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 150 artículos a lo largo de su carrera. En esta página es posible descargar la mayor parte de estos trabajos.
 
 ## Década de 1970
+1. La administración pública en México desdpués de la década de los setentas [descargar](/pdfs/libros/APmexSetenta.pdf){:target="_blank"}
 
 
 ## Década de 1980
