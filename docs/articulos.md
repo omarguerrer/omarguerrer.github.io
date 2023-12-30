@@ -17,9 +17,9 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 5. Modernización y administración pública: fundamentos teóricos en lapalombara, eisenstadt y apter. [descargar](/pdfs/articulos/1970/ModerAP.pdf){:target="_blank"}
 6. La razón de Estado. [descargar](/pdfs/articulos/1970/RazonEstado1.pdf){:target="_blank"}
 
-
-
 ## Década de 1980
+7. 75 años de revolución: la adminisración pública. [descargar](/pdfs/articulos/1980/75rev.pdf){:target="_blank"}
+
 
 ## Década de 1990
 
