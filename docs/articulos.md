@@ -19,6 +19,7 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 
 ## Década de 1980
 1. 75 años de revolución: la adminisración pública. [descargar](/pdfs/articulos/1980/75rev.pdf){:target="_blank"}
+2. La administración pública en el capitalismo avanzado: capacidad y límites como factor de cambio. [descargar](/pdfs/articulos/1980/APcapitalismoAvanzado.pdf){:target="_blank"}
 
 
 ## Década de 1990
