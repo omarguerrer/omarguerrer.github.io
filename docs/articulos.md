@@ -52,11 +52,13 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 32. Tadeo Ortiz, un cultivador mexicano de la ciencia política. [descargar](/pdfs/articulos/1980/TadeoOrtiz.pdf){:target="_blank"}
 33. Acerca del "tamaño" del Estado mexicano. [descargar](/pdfs/articulos/1980/TamanoEdoMexicano.pdf){:target="_blank"}
 
-
-
-
-
 ## Década de 1990
+1. El análisis de implementación de políticas públicas. [descargar](/pdfs/articulos/1990/AnalisisImplementa.pdf){:target="_blank"}
+2. De la administración pública a la gerencia social. [descargar](/pdfs/articulos/1990/APgerenciaSocial.pdf){:target="_blank"}
+3. La administración pública de políticas sociales. [descargar](/pdfs/articulos/1990/APpoliticasSoc.pdf){:target="_blank"}
+
+
+
 
 ## Década de 2000
 
