@@ -5,6 +5,6 @@ nav_order: 6
 has_children: false
 ---
 
-# Números de la Revista de Administración Pública (RAP) publicados bajo la dirección del Dr. Guerrero Orozco
+# Números de la Revista de Administración Pública publicados bajo la dirección de Omar Guerrero
 
 
