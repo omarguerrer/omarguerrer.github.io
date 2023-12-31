@@ -73,6 +73,28 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 18. Papel de los ministerios de justicia en la reforma del Estado. [descargar](/pdfs/articulos/1990/MinisteriosJusticia1.pdf){:target="_blank"}
 19. El mito del nuevo "Management" público. [descargar](/pdfs/articulos/1990/MitoNGPVen.pdf){:target="_blank"}
 20. Modernización de la administración estatal en el estado de Guerrero. [descargar](/pdfs/articulos/1990/ModernizacionEdoGuerrero.pdf){:target="_blank"}
+21. Modernización del Estado mexicano. [descargar](/pdfs/articulos/1990/ModernizaEdoMexicano.pdf){:target="_blank"}
+22. El "management" público: una torre de Babel. [descargar](/pdfs/articulos/1990/MpTorreDeBabel.pdf){:target="_blank"}
+23. Von Justi, Juan Enrique, ciencia del Estado. [descargar](/pdfs/articulos/1990/NotaSobreJusti.pdf){:target="_blank"}
+24. La investigación histórica: notas sobre la historia de la secretaría de gobernación. [descargar](/pdfs/articulos/1990/NotasSecretariaGober.pdf){:target="_blank"}
+25. Política, policy pública y administración pública. [descargar](/pdfs/articulos/1990/PolicyPoliticaAP.pdf){:target="_blank"}
+26. Las políticas públicas como ámbito de concurrencia multidisciplinaria. [descargar](/pdfs/articulos/1990/PPconcurrenciaMulti.pdf){:target="_blank"}
+27. Políticas públicas: interrogantes. [descargar](/pdfs/articulos/1990/PPinterrogantes.pdf){:target="_blank"}
+28. Moral en políticas públicas. [descargar](/pdfs/articulos/1990/PPmoral.pdf){:target="_blank"}
+29. Políticas públicas para la reforma del Estado moderno. [descargar](/pdfs/articulos/1990/PPreformaEstado.pdf){:target="_blank"}
+29. Políticas públicas: una resurrección de la ciencia de la policia. [descargar](/pdfs/articulos/1990/PPresurreccionCP.pdf){:target="_blank"}
+30. Continuidad y terminación de políticas en administración pública. [descargar](/pdfs/articulos/1990/PPterminaContinua.pdf){:target="_blank"}
+31. Las políticas públicas antes de las ciencias de las políticas. [descargar](/pdfs/articulos/1990/PPublicasAntesCpoliticas.pdf){:target="_blank"}
+32. Privatización de la administración pública. [descargar](/pdfs/articulos/1990/PrivatizaAP.pdf){:target="_blank"}
+33. La reforma del Estado como modernización. [descargar](/pdfs/articulos/1990/ReformaEdoModernizacion.pdf){:target="_blank"}
+34. Revillagigedo o el hombre de Estado. [descargar](/pdfs/articulos/1990/RevillagigedoHombreEdo.pdf){:target="_blank"}
+35. José Francisco Ruíz Massieu: administrador público. [descargar](/pdfs/articulos/1990/RuizMassieuAP.pdf){:target="_blank"}
+36. La secretaría de justicia ¿eslabón perdido de la administración pública mexicana?. [descargar](/pdfs/articulos/1990/SdeJusticiaEslabonPerdido.pdf){:target="_blank"}
+37. La seguridad social en la transición de la administración pública moderna. [descargar](/pdfs/articulos/1990/SeguridadSocialyAP.pdf){:target="_blank"}
+38. La trascendencia de los elementos de la ciencia administrativa: estudio introductorio. [descargar](/pdfs/articulos/1990/TrascendenciaElementosCA.pdf){:target="_blank"}
+39. Los usos del análisis de implementación de políticas. [descargar](/pdfs/articulos/1990/UsosAnalisisImplementa2.pdf){:target="_blank"}
+
+
 
 
 
