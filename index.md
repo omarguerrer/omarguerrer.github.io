@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 ---
 
-<center>![test](/imagenes/bio/editada.jpg){:height="70%" width="70%"}</center>
+![test](/imagenes/bio/editada.jpg){:height="70%" width="70%"}
 
 
 
