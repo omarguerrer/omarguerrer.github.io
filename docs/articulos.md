@@ -9,7 +9,7 @@ has_children: false
 
 Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 150 artículos a lo largo de su carrera. En esta página es posible descargar la mayor parte de estos trabajos. Los artículos han sido organizados por décadas: [1970](#Década-de-1970), [1980](#Década-de-1980), [1990](#Década-de-1990), [2000](#Década-de-2000), y [2010 en adelante](#Década-de-2010-en-adelante).
 
-## Década de 1970
+## Década de 1970{#Década-de-1970}
 1. La administración pública en México desdpués de la década de los setentas. [descargar](/pdfs/articulos/1970/APmexSetenta.pdf){:target="_blank"}
 2. La centralización como elemento estructural del Estado. [descargar](/pdfs/articulos/1970/CentralizacionEstatalSXIX.pdf){:target="_blank"}
 3. Gaetano Mosca: la política profesional de la clase gobernante. [descargar](/pdfs/articulos/1970/GaetanoMosca.pdf){:target="_blank"}
@@ -17,7 +17,7 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 5. Modernización y administración pública: fundamentos teóricos en lapalombara, eisenstadt y apter. [descargar](/pdfs/articulos/1970/ModerAP.pdf){:target="_blank"}
 6. La razón de Estado. [descargar](/pdfs/articulos/1970/RazonEstado1.pdf){:target="_blank"}
 
-## Década de 1980
+## Década de 1980{#Década-de-1980}
 1. 75 años de revolución: la adminisración pública. [descargar](/pdfs/articulos/1980/75rev.pdf){:target="_blank"}
 2. La administración pública en el capitalismo avanzado: capacidad y límites como factor de cambio. [descargar](/pdfs/articulos/1980/APcapitalismoAvanzado.pdf){:target="_blank"}
 3. La administración pública congresional. [descargar](/pdfs/articulos/1980/APcogresional.pdf){:target="_blank"}
@@ -52,7 +52,7 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 32. Tadeo Ortiz, un cultivador mexicano de la ciencia política. [descargar](/pdfs/articulos/1980/TadeoOrtiz.pdf){:target="_blank"}
 33. Acerca del "tamaño" del Estado mexicano. [descargar](/pdfs/articulos/1980/TamanoEdoMexicano.pdf){:target="_blank"}
 
-## Década de 1990
+## Década de 1990{#Década-de-1990}
 1. El análisis de implementación de políticas públicas. [descargar](/pdfs/articulos/1990/AnalisisImplementa.pdf){:target="_blank"}
 2. De la administración pública a la gerencia social. [descargar](/pdfs/articulos/1990/APgerenciaSocial.pdf){:target="_blank"}
 3. La administración pública de políticas sociales. [descargar](/pdfs/articulos/1990/APpoliticasSoc.pdf){:target="_blank"}
@@ -76,10 +76,10 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 
 
 
-## Década de 2000
+## Década de 2000{#Década-de-2000}
 
 
-## Década de 2010 en adelante
+## Década de 2010 en adelante{#Década-de-2010-en-adelante}
 
 
 
