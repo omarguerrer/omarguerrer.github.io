@@ -15,7 +15,7 @@ Omar Guerrero publicó más de 40 libros. La gran mayoría de autoría propia. N
     - Ediciones posteriores: UNAM ([1982](/pdfs/libros/TACP1.pdf){:target="_blank"}) y UAEM (2003)
 
 2. Guerrero, Omar (1979) *La administración pública del Estado capitalista.* INAP. México.  [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
-    - Ediciones posteriores: Fontamara (1981, 1986, 1988, 1991, y 2022)
+    - Ediciones posteriores: Fontamara (1981, 1986, 1988, 1991, y 2002)
 
 3. Guerrero, Omar (1982) *El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. [descargar](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
