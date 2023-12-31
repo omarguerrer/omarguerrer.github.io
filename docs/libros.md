@@ -19,9 +19,9 @@ Omar Guerrero publicó más de 40 libros. La gran mayoría de autoría propia. N
 
 3. Guerrero, Omar (1982) *El proceso histórico de la acción gubernamental. La administración pública en el modo de producción asiático.* INAP. México. [descargar](/pdfs/libros/PHAC.pdf){:target="_blank"}
 
-4. Guerrero, Omar (1984) *Introducción a la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/IntroAP.pdf){:target="_blank"}
+4. Guerrero, Omar (1984) *Introducción a la administración pública.* Harla. México. [descargar](/pdfs/libros/IntroAP.pdf){:target="_blank"}
 
-5. Guerrero, Omar (1986) *La teoría de la administración pública.* Harper and Row Latinoamericana. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
+5. Guerrero, Omar (1986) *La teoría de la administración pública.* Harla. México. [descargar](/pdfs/libros/TAP.pdf){:target="_blank"}
 
 6. Guerrero, Omar (1985) *Las ciencias de la administración en el Estado absolutista.* Fontamara. México. [descargar](/pdfs/libros/Estado_capitalista.pdf){:target="_blank"}
 
