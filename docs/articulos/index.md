@@ -12,10 +12,9 @@ Además de su extenso legado en forma de libros, Omar Guerrero publicó más de 
 
 ## Décadas
 
-### [Década de 1970](/docs/articulos/1970.html)
-### Década de 1980
-### Década de 1990
-### Década de 2000
-### Década de 2010
-
+### [1970](/docs/articulos/1970.html)
+### [1980](/docs/articulos/1980.html)
+### [1990](/docs/articulos/1990.html)
+### [2000](/docs/articulos/2000.html)
+### [2010](/docs/articulos/2010.html)
 
