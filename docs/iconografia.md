@@ -7,4 +7,4 @@ has_children: false
 
 # Portadas de libros
 
-{% include my-gallery.html folder="myfolder" %}
+![](/imagenes/portadas/thumbs/1.jpeg)
