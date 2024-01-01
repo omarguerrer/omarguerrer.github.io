@@ -5,7 +5,6 @@ nav_order: 1
 has_children: false
 ---
 
-![test](/imagenes/bio/editada.jpg){:height="70%" width="70%"}
 
 <p align="center">
   <img src="/imagenes/bio/editada.jpg?raw=true" height="70%" width="70%"/>
