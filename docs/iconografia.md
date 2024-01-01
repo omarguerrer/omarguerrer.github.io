@@ -9,6 +9,8 @@ has_children: false
 
 A continuación se presentan las portadas de la mayoría de los libros publicados por Omar Guerrero Orozco, inclyendo aquellos que tuvieron múltiples ediciones.
 
+{% include my-gallery.html folder="" %}
+
 ![](/imagenes/portadas/thumbs/1.jpeg) ![](/imagenes/portadas/thumbs/1a.jpeg)
 ![](/imagenes/portadas/thumbs/1b.jpeg) 
 
