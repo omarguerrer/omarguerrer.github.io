@@ -11,7 +11,7 @@ A continuación se muestran algunas grabaciones con intervenciones o entrevistas
 2009 - Conversatorio ESAP, Colombia
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oo7I7Kknb2I?si=M5YAKMpU-X9qwQyn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-2013 - Nota periodítica sobre el doctorado honoris causa por la Universidad de Sonora, México
+2011 - Nota periodítica sobre el doctorado honoris causa por la Universidad de Sonora, México
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iN4bJ6cBGC4?si=-QfjFWlY8Mg9i7Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 2015 - Entrevista para el Seminario de Cultura Mexicana
