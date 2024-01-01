@@ -9,6 +9,7 @@ has_children: false
 
 Omar Guerrero publicó más de 40 libros. La gran mayoría de autoría propia. Nótese que parte de su legado más destacado fue el redescubrimiento de clásicos de la administración pública que habían sido olvidados o completamente desconocidos por los académcos de la disciplina. Por ende, algunos de sus trabajos más importantes fueron la traducción y revisión de dichas obras, así como la preparación de estudios introductorios comprehensivos en cada uno de estos trabajos. Esta lista incluye dichas obras, así como dos libros collectivos donde el Dr. Guerrero fungió como coordinador.
 
+## Obras
 
 1. Guerrero, Omar (1976) *Teoría administrativa de la ciencia política.* UNAM, México. [descargar](/pdfs/libros/TAcp-1.pdf){:target="_blank"}
     - Ediciones posteriores: UNAM ([1982](/pdfs/libros/TACP1.pdf){:target="_blank"}) y UAEM (2003)
