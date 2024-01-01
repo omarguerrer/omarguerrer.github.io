@@ -35,6 +35,9 @@ A continuación se muestran algunas grabaciones con intervenciones o entrevistas
 2018 - Conferencia del INAP, México
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8kJr2dsrpSo?si=d1nFzUz1bnJM8hzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+2019 - Panel en la UNAM, México
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mur-8MOdKn4?si=_2HEo9awxvz1tnOu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 2019 - Presentación de libro en el INAP, México
 <iframe width="560" height="315" src="https://www.youtube.com/embed/egy99zeVdTQ?si=lMMc8rjStzj_Guim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -63,4 +66,4 @@ A continuación se muestran algunas grabaciones con intervenciones o entrevistas
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AjmsAmeWrco?si=tBsE0P6OPVgm0LiG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 2023 - Homenaje póstumo de la UNAM, México
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RagMUSopua4?si=_cMF9jOl2JwbuHzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
