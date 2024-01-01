@@ -7,4 +7,5 @@ has_children: false
 
 # Portadas de libros
 
-![dssd](/imagenes/portadas/thumbs/1.jpeg)
+![](/imagenes/portadas/thumbs/1.jpeg) ![](/imagenes/portadas/thumbs/2.jpeg)
+
