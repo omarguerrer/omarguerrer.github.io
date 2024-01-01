@@ -7,3 +7,4 @@ has_children: false
 
 # Portadas de libros
 
+{% include my-gallery.html folder="myfolder" %}
