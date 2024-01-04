@@ -15,3 +15,7 @@ thumbsurl: "/imagenes/portadas/thumbs/"
 ga_tracking: G-0P71R4RDPE
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "dark"
+
+
