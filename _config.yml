@@ -9,3 +9,9 @@ url: https://omarguerrero.org
 
 imagesurl: "/imagenes/portadas/completas/"
 thumbsurl: "/imagenes/portadas/thumbs/"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-0P71R4RDPE"
+    anonymize_ip: false # default  
