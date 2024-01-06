@@ -10,7 +10,7 @@ Además de una vasta obra publicada, Omar Guerrero dejó un extenso legado en fo
 
 A continuación se presenta una muestra de obras inéditas que Omar Guerrero consideró terminadas, pero que, por diversas razones, no vieron la luz pública cuando el autor estuvo en vida. Estos trabajos se encuentran archivados en un repositorio de la [Social Science Research Network](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2173880){:target="_blank"}, por lo que su correcta forma de citar se sugiere en dicho repositorio. 
 
-Nótese que estos trabajos han sido tomados directamente de los manucritos del autor. Por ende, contienen notas que él se escribía a sí mismo sobre el estado del trabajo; una valiosa fuente de información para entender el proceso de pensamiento del Dr. Guerrero Orozco. En un futuro, se espera agregar otros tipos de trabajos que se encuentran en forma de borradores y notas.
+Nótese que estos trabajos han sido tomados directamente de los manucritos del autor. Por ende, contienen notas que él escribía para sí mismo en referencia al estado del trabajo; una valiosa fuente de información para entender el proceso de pensamiento del Dr. Guerrero Orozco. En un futuro, se espera agregar otros tipos de trabajos que se encuentran en forma de borradores y notas.
 
 ## Artículos y ensayos
 
