@@ -5,7 +5,7 @@ nav_order: 6
 has_children: false
 ---
 
-# Números de la RAP bajo la dirección de Omar Guerrero
+# Números dirijidos de la RAP
 
 Entre 1980 y 1983, el Dr. Guerrero fue director de la Revista de Administración Pública del el Instituto Nacional de Administración Pública (México). A continuación se presentan todos los números publicados bajo su dirección, así como dos ediciones especiales.
 
