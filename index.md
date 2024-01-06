@@ -27,7 +27,7 @@ Para más información sobre el Dr. Guerrero Orozco, puede visitar los siguiente
 Como líder en su campo, la vida y obra del Dr. Guerrero Orozco ha sido objeto de estudio en múltiples ocasiones. Aquí se enlistan tres trabajos de esta naturaleza, publicados cuando el autor estuvo en vida:
 
 - Premio Nacional de Administración Pública 1978. Serie Praxis 19. Cuadernos INAP. [descargar](/pdfs/acerca/inap_1978.pdf){:target="_blank"}
-- Zarur, Alejandro (1997) La Obra de Omar Guerrero. INAP.
+- Zarur, Alejandro (1997) La Obra de Omar Guerrero. INAP. [consultar](https://www.calameo.com/read/0070295950d1b39a2b309){:target="_blank"}
 - Robles Burgos, Emilio (2021) Conversaciones Entreveradas. página 29. Editorial Garabatos.
 
 
