@@ -28,6 +28,6 @@ Como líder en su campo, la vida y obra del Dr. Guerrero Orozco han sido objeto 
 
 - Premio Nacional de Administración Pública 1978. Serie Praxis 19. Cuadernos INAP. [descargar](/pdfs/acerca/inap_1978.pdf){:target="_blank"}
 - Zarur, Alejandro (1997) La Obra de Omar Guerrero. IAPEM. [consultar](https://www.calameo.com/read/0070295950d1b39a2b309){:target="_blank"}
-- Robles Burgos, Emilio (2021) Conversaciones Entreveradas. página 29. Editorial Garabatos.
+- Robles Burgos, Emilio (2021) Conversaciones Entreveradas. Página 29. Editorial Garabatos.
 
 
