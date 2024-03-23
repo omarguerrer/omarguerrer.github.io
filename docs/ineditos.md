@@ -31,8 +31,8 @@ Nótese que estos trabajos han sido tomados directamente de los manucritos del a
 15. Guerrero, Omar (1973) La Integración Funcional de la Administración Pública Paraestatal Latinoamericana. [descargar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686358){:target="_blank"}
 16. Guerrero, Omar (1973) Enfoques y Modelos de Modernización para las Sociedades Subdesarrolladas. [descargar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686372){:target="_blank"}
 17. Guerrero, Omar (1974) Política y Administración Pública en la Historia. [descargar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686387){:target="_blank"}
-18. Guerrero, Omar (1975) Sin Título: Teoría de la Administración Pública. [descargar]( https://ssrn.com/abstract=4686367){:target="_blank"}
-19. Guerrero, Omar (1979) Thomas Hobbes y el Behemoth. Un Ensayo Exploratorio. [descargar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686363){:target="_blank"}
+18. Guerrero, Omar (1975) Sin Título: Teoría de la Administración Pública. [descargar](https://ssrn.com/abstract=4686367){:target="_blank"}
+19. Guerrero, Omar (1979) Thomas Hobbes y el Behemoth. Un Ensayo Exploratorio. [descargar](https://ssrn.com/abstract=4686363){:target="_blank"}
 20. Guerrero, Omar (1982) Reflexiones sobre la Teoría de una División Desigual de Poderes. [descargar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686370){:target="_blank"}
 21. Guerrero, Omar (1982) La Primera República Federal. [descargar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686391){:target="_blank"}
 22. Guerrero, Omar (1982) La Administración Pública durante el Primer Imperio. [descargar](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686392){:target="_blank"}
